@@ -6,9 +6,10 @@
             <h3>H3 Rubik: where are them jovel Vtol at</h3>
             <h4>H4 Rubik: where are them jovel Vtol at</h4>
             <p>
-                Facilisis volutpat elit eiusmod vulputate do sodales eleifend venenatis duis proin 
-                lacinia non. Odio mollis etiam tempor ultricies etiam auctor fringilla velit sus-pendisse 
-                lectus quam molestie magna.
+                Facilisis volutpat elit eiusmod vulputate do sodales eleifend
+                venenatis duis proin lacinia non. Odio mollis etiam tempor
+                ultricies etiam auctor fringilla velit sus-pendisse lectus quam
+                molestie magna.
             </p>
             <a href="#">Link Type</a>
             <div class="primary-btn-light-bg primary-btn-lg">
@@ -16,7 +17,7 @@
                 <div class="btn-medium">Button text medium</div>
                 <div class="btn-large">Button text large</div>
             </div>
-            <br>
+            <br />
             <div class="primary-btn-light-bg primary-btn-lg">
                 <div class="field-title">Field title</div>
                 <div class="field-info">Field text</div>

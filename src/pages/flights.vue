@@ -3,8 +3,8 @@
         <div class="arrow-cargo-body">
             <div class="arrow-grid white-bg-header">
                 <div class="arrow-grid-child-fw specify-package">
-                    <BackLinkArrow/>
-                    <CommuteLocation/>
+                    <BackLinkArrow />
+                    <CommuteLocation />
                 </div>
             </div>
             <MapRoute />
@@ -16,20 +16,19 @@
     </div>
 </template>
 
-<script setup>
-</script>
+<script setup></script>
 
 <style lang="scss" scoped>
-.mapper-container {
-    min-height: 100vh;
+    .mapper-container {
+        min-height: 100vh;
 
-    .arrow-cargo-body {
-        margin-bottom: 120px;
-        .commute-card-background {
-            // background: $greys_blue_extra_light_muted;
-            padding: 20px;
-            height: 100%;
+        .arrow-cargo-body {
+            margin-bottom: 120px;
+            .commute-card-background {
+                // background: $greys_blue_extra_light_muted;
+                padding: 20px;
+                height: 100%;
+            }
         }
     }
-}
 </style>

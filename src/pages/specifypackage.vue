@@ -1,12 +1,16 @@
 <template>
     <div class="arrow-grid">
         <div class="arrow-grid-child-fw specify-package">
-            <BackLinkArrow/>
+            <BackLinkArrow />
             <div class="specify-package__h1">
                 <h1>Booking a cargo flight</h1>
             </div>
             <div class="specify-package__p">
-                <p>Here you can specify the types of packages (like their weight and size) and the amount of packages per type for the chosen flight.</p>
+                <p>
+                    Here you can specify the types of packages (like their
+                    weight and size) and the amount of packages per type for the
+                    chosen flight.
+                </p>
             </div>
             <CommuteLocation
                 :departureLocation="'Stockholm'"
@@ -33,6 +37,5 @@
 </template>
 
 <script>
-export default {
-}
+    export default {};
 </script>
